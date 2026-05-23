@@ -7,3 +7,4 @@
 /Common.OperationResult/Common.OperationResult/bin/Debug/net8.0/Common.OperationResult.deps.json
 /Common.OperationResult/Common.OperationResult/obj
 /Common.OperationResult/Common.OperationResult/bin/Release/net8.0
+publish.ps1
